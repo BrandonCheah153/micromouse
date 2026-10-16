@@ -28,7 +28,7 @@ _autosave-*
 *.tmp
 *-save.pro          # For Project File
 *-save.kicad_pcb    # PCB Layout File
-fp-info-cache       # Footprint Cache
+*fp-info-cache       # Footprint Cache
 *-cashe.lib
 bloo-backups/
 
